@@ -7,8 +7,12 @@
     max-width: 80vw;
     margin: auto;
 }
+.main__header_formatting{
+    padding: 0rem 1rem;
+}
 .main__p_formatting{
-    padding: 0rem 2rem;
+    padding: 0rem 2rem 0.5rem;
+    margin: 2rem 0rem;
     text-align: justify;
 }
 .main__title{
