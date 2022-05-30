@@ -3,9 +3,14 @@
     padding: 0em;
 }
 
+.header{
+    min-height: 12.5rem;
+    border: 1px solid black;
+}
 .main{
     max-width: 80vw;
     margin: auto;
+    border:  1px solid black;
 }
 .main__header_formatting{
     padding: 0rem 1rem;
