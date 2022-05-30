@@ -1,7 +1,7 @@
 *{
     margin: 0em;
     padding: 0em;
-}
+    box-sizing: border-box;}
 
 .header{
     min-height: 12.5rem;
@@ -15,7 +15,11 @@
 .header__nav_flex{
     display: flex;
     min-width: 80vw;
-    justify-content: space-evenly;
+    justify-content: space-between;
+    padding-bottom: 0.938rem;
+}
+.header__input_flex{
+    margin-left: 0.938rem;
 }
 .dropbtn{
     padding: 0.875rem;
